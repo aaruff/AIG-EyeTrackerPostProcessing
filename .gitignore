@@ -1,7 +1,7 @@
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-.DS_Store
+**/.DS_Store
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
